@@ -1,5 +1,15 @@
 # Welcome to my profile
-I'm ***G***abriel ***M***ariano ***Gonçalves*** ***S***antos ***(GMGONCALVESS)***
+I'm ***G***abriel ***M***ariano ***Gonçalves*** ***S***antos ***(GMGONCALVESS)*** :wink:
+
+==highlight==
+I've used:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+          
+          
 
 <!--
 **GMGONCALVESS/GMGONCALVESS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
