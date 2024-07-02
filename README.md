@@ -1,9 +1,7 @@
 # Welcome to my profile 🖖
 ### I'm ***G***abriel ***M***ariano ***Gonçalves*** ***S***antos ***(GMGONCALVESS)*** 😉
 
-Currently a Control and Automation Engineering student at UFSC - Blumenau
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_UFSC_vertical_extenso.svg" widht="60" height="60">
+Currently a Control and Automation Engineering student at UFSC - Blumenau <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_UFSC_vertical_extenso.svg" widht="60" height="60">
 
 I've used:
 
