@@ -1,5 +1,5 @@
 # Welcome to my profile
-## I'm **G**abriel **M**ariano **Gonçalves** **S**antos (GMGONCALVESS)
+I'm **G**abriel **M**ariano **Gonçalves** **S**antos (GMGONCALVESS)
 
 <!--
 **GMGONCALVESS/GMGONCALVESS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
