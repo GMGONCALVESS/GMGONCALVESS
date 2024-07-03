@@ -1,6 +1,9 @@
 # Welcome to my profile 🖖
 ### I'm ***G***abriel ***M***ariano ***Gonçalves*** ***S***antos ***(GMGONCALVESS)*** 😉
-<img align="center" src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/9T2X.gif" widht="80" height="80">
+<div align="center">
+<img  src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/9T2X.gif" widht="80" height="80">
+</div>
+
 
 <div>
     Currently a Control and Automation Engineering student at UFSC - Blumenau <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_UFSC_vertical_extenso.svg" widht="50" height="50">
