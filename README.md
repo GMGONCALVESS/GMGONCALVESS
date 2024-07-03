@@ -1,7 +1,7 @@
 # Welcome to my profile 🖖
 ### I'm ***G***abriel ***M***ariano ***Gonçalves*** ***S***antos ***(GMGONCALVESS)*** 😉
 <div align="center">
-<img  src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/golde_ratio.gif" widht="80" height="80">
+<img  src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/golden_ratio.gif" widht="80" height="80">
 </div>
 
 
