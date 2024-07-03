@@ -18,7 +18,8 @@ I've used:
 
 Frameworks and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" /><img src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/image (1).png" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" /><img src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/image (1).png" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40"/>
+          
 
 <div>
 <a href="https://github.com/GMGONCALVESS">
