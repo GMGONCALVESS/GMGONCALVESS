@@ -11,8 +11,11 @@
             Control and Automation Engineering student at UFSC - Blumenau <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Brasao_UFSC_vertical_extenso.svg" widht="40" height="40">
         </li>
         <li>
-            Internship at Anatel<img src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/image-removebg-preview%20(1).png" widht="40" height="40"> 
+            Internship at Anatel (01/02/2024 - 21/01/2025) <img src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/image-removebg-preview%20(1).png" widht="40" height="40"> 
         </li>
+<!--         <li>
+            Summer Internship at Seven Pounds Asset Management (Currently)<img src="https://github.com/GMGONCALVESS/GMGONCALVESS/blob/main/image-removebg-preview%20(1).png" widht="40" height="40"> 
+        </li> -->
     </ul>     
 </div>
 
